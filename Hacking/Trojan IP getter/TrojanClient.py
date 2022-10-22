@@ -6,7 +6,7 @@ import pygame
 import pygame_gui
 import time
 from hooman import Hooman
-
+#For Educational Purposes ONLY!
 
 def main():
     window_width, window_height = 480, 370
